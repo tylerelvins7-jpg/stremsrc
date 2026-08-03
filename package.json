@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@p-stream/providers": "https://github.com/p-stream/providers.git",
+    "@p-stream/providers": "https://github.com/p-stream/providers/archive/refs/heads/production.tar.gz",
     "cheerio": "^1.0.0",
     "m3u8-parser": "^7.2.0",
     "stremio-addon-sdk": "1.6.10"
